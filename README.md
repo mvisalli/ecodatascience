@@ -1,8 +1,7 @@
 # ecodatascience
 This is a test repo for eco data science, learning Github. Awesome!
 
-Adding some more stuff in here...
-
+so i deleted something and added a new thing...
 
 Sean adding lines...
 
